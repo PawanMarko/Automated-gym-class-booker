@@ -1,0 +1,3 @@
+GYM_URL=https://appbrewery.github.io/gym/
+GYM_USERNAME=kurosakiinchgo@gmail.com
+GYM_PASSWORD=W3^hS9!rN7#vL2@cK5$
